@@ -1,4 +1,6 @@
 #!/usr/bin/perl
+#(c) 2012 by ktrask
+#3-clause BSD license, see LICENSE.md for further information
 
 my $encryptKey = 'name@example.com';
 my $sendmailPath = '/usr/sbin/sendmail';
